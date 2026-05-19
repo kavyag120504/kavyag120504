@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Kavya%20Goswami&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=CS%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack%20%7C%20Agentic%20AI&descAlignY=58&descSize=18&descColor=64ffda&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=99999&color=64FFDA&center=true&vCenter=true&width=800&height=100&lines=KAVYA+GOSWAMI" alt="Kavya Goswami"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=8b949e&center=true&vCenter=true&width=800&height=40&lines=CS+%7C+AI+%26+ML+%7C+Full-Stack+%7C+Agentic+AI+%7C+BML+Munjal+University" alt="subtitle"/>
 
 </div>
 
@@ -216,7 +218,7 @@ Digimind Technology Services, Bhopal
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Impactful&fontSize=20&fontColor=64ffda&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=99999&color=64FFDA&center=true&vCenter=true&width=600&height=60&lines=Let's+Build+Something+Impactful." alt="footer"/>
 
 <br/>
 
